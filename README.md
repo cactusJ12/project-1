@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<https://imgur.com/a/qEP4yvJ />
+<[https://imgur.com/a/qEP4yvJ ](https://imgur.com/gallery/qEP4yvJ)/>
 
 GIF created with Kap
 
